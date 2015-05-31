@@ -1,4 +1,14 @@
 # Site settings
+<<<<<<< HEAD
+title: HMFaysal's Diary
+email: hmfaysal@alum.mit.edu
+description: > # this means to ignore newlines until "baseurl:"
+  MIT'12 EECS Alum. UPenn'15 ESE PhD Candidate. Hossain Mohammad Faysal is an Electrical Engineer and a Mathematician based in Philadelphia, Pennsylvania. His interests are anything that’s related to math, from math itself to programming languages to music to physics to engineering to philosophy.
+baseurl: "" # the subpath of your site, e.g. /blog/
+url: "http://hmfaysal.github.io" # the base hostname & protocol for your site
+twitter_username: hmfaysal
+github_username:  hmfaysal
+=======
 title: Your awesome title
 email: your-email@domain.com
 description: > # this means to ignore newlines until "baseurl:"
@@ -9,6 +19,7 @@ baseurl: "" # the subpath of your site, e.g. /blog/
 url: "http://yourdomain.com" # the base hostname & protocol for your site
 twitter_username: jekyllrb
 github_username:  jekyll
+>>>>>>> 3f8e5d6aa5d9e3ec23e6b3839de4b7f7c17baa16
 
 # Build settings
 markdown: kramdown
